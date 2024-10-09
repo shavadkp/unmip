@@ -1,0 +1,13 @@
+.cream-bg{
+    background-color: yellowgreen;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
+}
+
+.card-image{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    border-bottom-right-radius: 0%px;
+}
